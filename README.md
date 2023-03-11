@@ -1,1 +1,3 @@
-# image_classification-DOGSvsCATS-and-visualization-of-layers
+# image_classification-DOGSvsCATS
+
+classification of dogs and cats with visualization of Convolutional layers.
